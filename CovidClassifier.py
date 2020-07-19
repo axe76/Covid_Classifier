@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr  9 15:51:16 2020
-
-@author: ACER
-"""
 from keras.models import Sequential
 from keras.layers import Dense
 from keras.layers import Conv2D
